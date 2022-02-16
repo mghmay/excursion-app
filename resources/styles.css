@@ -28,6 +28,9 @@ h1 {
     font-size: 21px;
     color: gray;
 }
+.padTop {
+    padding-top: 30px;
+}
 .right {
     text-align: right;
 }
