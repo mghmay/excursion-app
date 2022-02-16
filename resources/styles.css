@@ -6,6 +6,10 @@
 body {
     background-color: black;
 }
+a {
+    color: aquamarine;
+    font: 16px;
+}
 h1 {
     font-size: 50px;
 }
@@ -15,4 +19,15 @@ h1 {
 }
 .center {
     text-align: center;
+}
+#travelGuide h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+#travelGuide p {
+    font-size: 21px;
+    color: gray;
+}
+.right {
+    text-align: right;
 }
